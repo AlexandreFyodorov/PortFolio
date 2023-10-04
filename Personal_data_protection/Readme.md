@@ -1,5 +1,5 @@
 # Описание проекта 
-## ["Защита персональных данных клиентов"](https://github.com/AlexandreFyodorov/PortFolio/blob/main/Reliability_Research/Research.ipynb)
+## ["Защита персональных данных клиентов"](https://github.com/AlexandreFyodorov/PortFolio/blob/main/Personal_data_protection/Insurance.ipynb)
 
 ## Данные
 
