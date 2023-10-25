@@ -1,6 +1,6 @@
 # PortFolio
 
-[А.Н.ФЕДОРОВ. ОЗНАКОМИТЬСЯ С ДИПЛОМОМ СПЕЦИАЛИСТА ПО DATA SCIENCE](https://github.com/AlexandreFyodorov/PortFolio/blob/main/My_Diplom/Diploma_Practikum_1.jpg)
+[А.Н.ФЕДОРОВ. ОЗНАКОМИТЬСЯ С ДИПЛОМОМ СПЕЦИАЛИСТА ПО DATA SCIENCE](https://github.com/AlexandreFyodorov/PortFolio/blob/main/My_Diplom/ReadMe.md)
 
 Здесь собраны некоторые реализованные проекты
 
