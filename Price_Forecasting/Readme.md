@@ -2,7 +2,8 @@
 ## ["Прогнозирование временных рядов по биржевым ценам"](https://github.com/AlexandreFyodorov/PortFolio/blob/main/Price_Forecasting/Futures_stocks_1_day.ipynb)
 
 [![Кликни на картинку для просмотри видеоверсии](https://img.youtube.com/vi/WU-7IStSZ7E/0.jpg)](https://www.youtube.com/watch?v=WU-7IStSZ7E)
-Для просмотра видеоверсии исследовательского проекта кликните по картинке.
+
+Для просмотра видеоверсии проекта кликните по картинке.
 
 ## Данные
 
