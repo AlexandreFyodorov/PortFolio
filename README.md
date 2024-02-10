@@ -1,7 +1,3 @@
-# PortFolio
-
-[А.Н.ФЕДОРОВ. ОЗНАКОМИТЬСЯ С ДИПЛОМОМ СПЕЦИАЛИСТА ПО DATA SCIENCE](https://github.com/AlexandreFyodorov/PortFolio/blob/main/My_Diplom/ReadMe.md)
-
 Здесь собраны некоторые реализованные проекты
 
 |  #  | Наименование проекта        | Задачи проекта  | Описание проекта | Навыки и инструменты
